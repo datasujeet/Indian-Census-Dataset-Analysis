@@ -19,10 +19,14 @@ The dataset used in this project contains the following columns:
 - Sex Ratio: Number of females per 1,000 males.
 - Growth: Population growth rate.
 ## Example Data:
-State	Population	Literacy	Sex Ratio	Growth
-Kerala	3,457,000	93.91	1084	4.91
-Bihar	10,389,000	63.82	918	25.07
-Maharashtra	9,678,000	82.34	929	16.07
+
+|State        | Population | Literacy (%) | Sex Ratio | Growth (%) |
+|--------------|------------|--------------|-----------|------------|
+| Kerala       | 3,457,000   | 93.91        | 1084      | 4.91       |
+| Bihar        | 10,389,000  | 63.82        | 918       | 25.07      |
+| Maharashtra  | 9,678,000   | 82.34        | 929       | 16.07      |
+| Uttar Pradesh| 19,980,000  | 69.72        | 912       | 20.23      |
+| Tamil Nadu   | 7,215,000   | 80.09        | 995       | 15.61      |
 
 ## 💡 Key Insights & Findings
 - **Top States by Literacy:** States like Kerala and Goa have the highest literacy rates.
